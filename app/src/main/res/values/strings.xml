@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Tab Example: InnovateCode</string>
+    <string name="app_name">Tabs Example -InnovateCode</string>
+    <string name="tab_one">Tab One</string>
+    <string name="tab_two">Tab Two</string>
 </resources>
