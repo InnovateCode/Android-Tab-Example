@@ -13,8 +13,7 @@
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
         android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
-        app:elevation="4dp"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:elevation="4dp"
         app:titleTextColor="@color/colorAccent" />
 
     <android.support.design.widget.TabLayout
@@ -23,7 +22,7 @@
         android:layout_height="?attr/actionBarSize"
         android:layout_below="@id/toolbar"
         android:background="?attr/colorPrimary"
-        app:elevation="4dp"
+        android:elevation="4dp"
         app:tabGravity="fill"
         app:tabMaxWidth="0dp" />
 
